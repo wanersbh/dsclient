@@ -1,4 +1,4 @@
-package com.was.dsclient.repository;
+package com.was.dsclient.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
